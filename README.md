@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darken11
-- 👀 I’m interested in Front End Technologies.
+- 👀 I’m interested in Front End and Back End Technologies.
 - 🌱 I’m currently learning VuJs 3.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
